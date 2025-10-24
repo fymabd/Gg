@@ -1537,12 +1537,12 @@ clienttto.on('messageReactionAdd', async (reaction, user) => {
       }
     });
    //await kskos.deleteOne({token: config.token, expireIn: config.expireIn})
-clienttto.login(config.token).catch(async(err)=>{ console.log("one token inviled auto and removed"); await kskos.deleteOne({token: config.token});})
+clienttto.login(process.env.token).catch(async(err)=>{ console.log("one token inviled auto and removed"); await kskos.deleteOne({token: config.token});})
   });
 });    
 
       
-  client.login(config.token);
+  client.login(process.env.token);
 
 /*  return client;
 }
