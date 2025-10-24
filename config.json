@@ -1,14 +1,14 @@
 {
   "token": "",
   "prefix": "!",
-  "NormalPriceText": "50000",
-  "NormalPriceVoice": "60000",
-  "NormalPriceAuto": "80000",
-  "NormalPriceAlive": "55000",
-  "NormalPriceStream": "70000",
-  "category": "تكتات",
-  "owner": "اونر",
-  "logBuy": "لوق توكنات",
-  "sendBuy": "لوق شراء",
+  "NormalPriceText": "1",
+  "NormalPriceVoice": "1",
+  "NormalPriceAuto": "1",
+  "NormalPriceAlive": "1",
+  "NormalPriceStream": "1",
+  "category": "1408166372650913869",
+  "owner": "966178756341411862",
+  "logBuy": "1408166371811922016",
+  "sendBuy": "1408166371811922016",
   "webhookErrors": "url here"
 }
