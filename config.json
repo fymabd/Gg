@@ -1,0 +1,14 @@
+{
+  "token": "",
+  "prefix": "!",
+  "NormalPriceText": "50000",
+  "NormalPriceVoice": "60000",
+  "NormalPriceAuto": "80000",
+  "NormalPriceAlive": "55000",
+  "NormalPriceStream": "70000",
+  "category": "تكتات",
+  "owner": "اونر",
+  "logBuy": "لوق توكنات",
+  "sendBuy": "لوق شراء",
+  "webhookErrors": "url here"
+}
