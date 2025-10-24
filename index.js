@@ -13,7 +13,7 @@ const token = require('/home/container/models/tokennts.js');
 //function createKickBot(token) {
     const client = new Client({ intents: 3276799 });
   
-mongoose.connect("رابط مونجو");
+mongoose.connect("mongodb+srv://shiva:shiva@discordbot.opd5w.mongodb.net/?retryWrites=true&w=majority");
 client.on("ready", async () => {
   await setSlash(client)  
   });
